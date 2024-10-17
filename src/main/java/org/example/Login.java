@@ -10,6 +10,7 @@ public class Login {
     }
 
     public void login(){
-        System.out.println("User has been logged in");
+        System.out.println("User USERNAME has been logged in");
+        System.out.println("User USERNAME has been logged in");
     }
 }
