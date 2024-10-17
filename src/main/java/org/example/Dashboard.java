@@ -17,10 +17,12 @@ public class Dashboard {
         JLabel label = new JLabel("Welcome to the Dashboard!", SwingConstants.CENTER);
         JButton button1 = new JButton("Option 1");
         JButton button2 = new JButton("Option 2");
+        JButton button3 = new JButton("Option 3");
 
         panel.add(label);
         panel.add(button1);
         panel.add(button2);
+        panel.add(button3);
 
         frame.add(panel);
 
